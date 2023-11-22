@@ -22,5 +22,6 @@
 
                                               Р Е Ш Е Н И Е:
 
+Блок - схема алгоритма. (https://github.com/Nikolai-Nemkov/Final-test-23-11-23./blob/main/Блок-схема.drawio1.png
 
-![Блок - схема алгоритма](https://github.com/blob/main/Блок-схема.drawio1.png
+                                            
