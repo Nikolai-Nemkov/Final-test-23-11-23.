@@ -13,7 +13,7 @@
 
 Код программы:
 
-![alt text](https://github.com/Nikolai-Nemkov/Final-test-23-11-23./blob/main/Задача.txt
+(https://github.com/Nikolai-Nemkov/Final-test-23-11-23./blob/main/Задача.txt
 
  
  
