@@ -32,6 +32,10 @@
 
 (https://github.com/Nikolai-Nemkov/Final-test-23-11-23./blob/main/Задача.txt
 
+Вывод на консоль.
+
+(https://github.com/Nikolai-Nemkov/Final-test-23-11-23./blob/main/Вывод%20в%20консоль.txt
+
  
  
  
